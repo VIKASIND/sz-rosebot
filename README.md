@@ -1,3 +1,9 @@
+
+
+How To Host
+The easiest way to deploy this Bot
+<p align="center"><a href="https://github.com/VIKASIND/sz-rosebot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ 
 <img src="https://telegra.ph/file/5468dda790c9d744880a5.jpg" align="right" width="200" height="200"/>
 
 # Rose Bot ✨ <img src="https://img.shields.io/github/v/release/szsupunma/sz-rosebot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
