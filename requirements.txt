@@ -1,4 +1,5 @@
 flask
+Nokogiri
 flask_restful
 gunicorn
 emoji
