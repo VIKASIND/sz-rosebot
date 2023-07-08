@@ -18,4 +18,4 @@ RUN npm i -g npm
 COPY . /app/
 WORKDIR /app/
 RUN pip3 install -U -r requirements.txt
-CMD ["app.py","start.sh"]
+CMD ["bash","start.sh"]
